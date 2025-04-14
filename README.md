@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hey there! I’m a Frontend Developer who builds cool, interactive web experiences.
 
-<!--
-**schmulzE/schmulzE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I specialize in **Vue/Nuxt**, **React/Next**, and love crafting seamless UIs with **TypeScript**, **Tailwind CSS**, and clever animations.  
+🎨 Whether it’s e-commerce 🛍️, recipe apps 🍰, chat systems 💬, or music platforms 🎶 powered by crypto, I’m always experimenting with creative ideas and meaningful user flows.
 
-Here are some ideas to get you started:
+### 💡 Fun Facts  
+- **Debugging with `console.log()`** is my guilty pleasure 🐛😅  
+- **Coding with lo-fi beats** 🎧🎶  
+- **Turning coffee into code** ☕ → 💻  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ I’m all about:
+- Clean code & smooth state management 🌊  
+- Contexts, components & custom hooks ⚙️  
+- Supabase 🔥, MongoDB 🍃, and serverless integrations  
+- Animations that *feel* right (hello, Framer Motion 👋 +1✨)  
+- Building tools that people *actually love to use* ❤️
+
+### 🌱 Currently Learning  
+- **Advanced React Patterns** 🔥  
+- **Mobile-first & PWAs** 📱
+- **Web Performance Optimization** ⚡ 
+- **Web3** 📘 
+
+🧠 Always learning. Always shipping. Always vibing.
+
+Let’s build something awesome together. 🚀
