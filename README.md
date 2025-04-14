@@ -8,7 +8,7 @@
 - **Coding with lo-fi beats** 🎧🎶  
 - **Turning coffee into code** ☕ → 💻  
 
-⚡ I’m all about:
+### ⚡ I’m all about:
 - Clean code & smooth state management 🌊  
 - Contexts, components & custom hooks ⚙️  
 - Supabase 🔥, MongoDB 🍃, and serverless integrations  
